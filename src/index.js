@@ -1,5 +1,7 @@
 import callbackBtn from "./modules/callbackBtn";
-import two from "./modules/two";
+import links from "./modules/links";
+import up from "./modules/up"
 
 callbackBtn()
-two()
+links()
+up()
