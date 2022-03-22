@@ -1,4 +1,4 @@
-import {handlersClickChangeStyle} from '../helpers.js'
+import {handlersClickChangeStyle} from './helpers.js'
 
 const callbackBtn = () => {
     const callback = document.querySelector('.header > a')
